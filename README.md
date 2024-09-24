@@ -6,6 +6,7 @@
   All http request using custom hooks.
   
   Front-End Tech :
+  
 - ReactJs
 - Tailwind Css
 - Flowbite React
@@ -13,7 +14,8 @@
 - React Icons
 - React Toastify
 
-  Back-End Tech :
+Back-End Tech :
+
 - ExpressJs
 - NodeJs
 - DotEnv
@@ -23,11 +25,11 @@
 - Insomnia
 
   # Setup .env file
-  PORT = ...
+  """PORT = ...
   MONGO_URI = ...
   API_URL = ...
   API_APP_ID = ...
-  API_APP_KEY = ...
+  API_APP_KEY = ..."""
 
   # Working images
   ![appfellas1](https://github.com/user-attachments/assets/f5b0f420-81be-4f5c-9ead-e7354d310d45)
